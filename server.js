@@ -51,4 +51,4 @@ app.listen(SERVER_PORT,() => {
 //in package.json
 //update in package.json as well
 //in server.js terminal:
-//npm run dev
+//npm run devd dasdasdasd
